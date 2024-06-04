@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176814720546",
+    "project_id": "gospodscheti-2b8f4",
+    "storage_bucket": "gospodscheti-2b8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176814720546:android:50d5e2450c28ab6147ac7b",
+        "android_client_info": {
+          "package_name": "com.example.kersach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44BFR9MSJdEm_QS_su9uMXs57bAbmG4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
